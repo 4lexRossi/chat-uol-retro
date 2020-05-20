@@ -6,7 +6,7 @@ um incrivel live coding de quase 4 horas ininterruptas do [Celso Henrique](https
 
 
 # chat-uol-javascript - html - css - websockets
-Chat retrô do Uol anos 80
+Chat retrô do Uol anos 90
 
 ## clone o repositório 
 
