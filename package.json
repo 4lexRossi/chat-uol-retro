@@ -1,0 +1,44 @@
+{
+  "name": "socket-client",
+  "version": "1.0.0",
+  "description": "Socket client live coding DIO lesson with Celso Henrique",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lexRossi/chat-uol-retro"
+  },
+  "keywords": [
+    "socket.io",
+    "front-end",
+    "chat"
+  ],
+  "author": "“Celso” <“celso.henrique@hotmail.com.br”> a few changes “Alex” <“financeiro.alexsander@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4lexRossi/chat-uol-retro"
+  },
+  "homepage": "https://github.com/4lexRossi/chat-uol-retro#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "html-loader": "^1.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "moment": "^2.25.3",
+    "reset-css": "^5.0.1",
+    "socket.io-client": "^2.3.0",
+    "style-loader": "^1.2.1"
+  }
+}
